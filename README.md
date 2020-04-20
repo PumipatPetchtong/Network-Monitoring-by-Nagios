@@ -1,4 +1,4 @@
-<h1>Network Monitoring by Nagios</h1> <br>
+<h1>Network Monitoring by Nagios</h1>
 <img src="https://www.nagios.org/wp-content/uploads/2015/06/Nagios-Logo.jpg" width='400'> 
 <h2>รายชื่อสมาชิก</h2>
 <ul>
